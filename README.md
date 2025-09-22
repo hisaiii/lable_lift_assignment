@@ -35,7 +35,7 @@ A modern, responsive music distribution platform built with Next.js and Tailwind
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/hisaiii/lable_lift_assignment.git
    cd lable_lift_assignment
    ```
 
